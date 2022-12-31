@@ -1,1 +1,7 @@
-
+## What are endians?
+   <ul>
+   <li>Just like how people need a common language to talk to one another, computer too need a common bit-format (1s and 0s) to communicate to one another</li>
+   <li>data can be formatted into big endian-> LSB at higher address compared to MSB or Little endian-> LSB as lower address compared to MSB</li>
+   <li>For example 0x400(1024 in dec) can written as 0x004 in little endian, big endian the format generally used in networking and packet switching</li>
+   </ul>
+   
