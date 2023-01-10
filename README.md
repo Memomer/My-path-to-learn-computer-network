@@ -9,4 +9,10 @@ Roadmap for  holistic learning in computer networks
 
 ## Books i read on the topic ->
 
-## Research paper and Idea panel ->
+    <a href="https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf">Computer_Networks_A_Top_Down_Approach</a>
+
+  
+## Code/WireShark/ Other CN analysis tools->
+  -
+
+## Research papers->
